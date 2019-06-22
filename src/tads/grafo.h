@@ -1,5 +1,6 @@
 #ifndef TADS_GRAFO_H_
 #define TADS_GRAFO_H_
+#define INFINITO -1
 
 typedef struct{
 	void* vertice;

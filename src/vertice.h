@@ -17,7 +17,7 @@ int getIndice(DicionarioVertices* dicionario, void* v){
 			return i;
 	}
 
-	return -1;
+	return INFINITO;
 }
 
 
